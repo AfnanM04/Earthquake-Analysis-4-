@@ -1,4 +1,4 @@
-# Earthquake-Analysis-4-
+# Temporal and Geospatial Analysis of Earthquake Data with Apache Spark
 jupyter notebook for Earthquake Analysis project (unit 4-AIHT)
 
 Link for dataset:
